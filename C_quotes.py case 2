@@ -1,0 +1,14 @@
+# Triple quotes tho 3 lines ni okesari print cheyochu
+
+message = """Welcome to Inceptez Technologies!
+Python Training: Basics
+Enjoy your learning journey."""
+
+print(message)
+#Triple quotes """ """ pedithe Enter kottina chota kuda line break ga theesukuntundi. 
+#Single/Double quotes tho ila 3 lines rayalemu.
+
+message = '''Welcome to Inceptez Technologies!
+Python Training: Basics
+Enjoy your learning journey.'''
+print(message)
