@@ -1,0 +1,9 @@
+students = 100
+# In class there are 100 Students
+trainers = 2
+# 2 trainers are there in Inceptez Technologies
+total = students + trainers # adding
+"""Below line shows total of students and trainers
+when we add 100 + 2 = 102 
+for Classroom planning this is needed"""
+print(total) # Result reflects 102 
