@@ -1,0 +1,23 @@
+# Step 1: Variables declare cheyadam
+# Variable ante data ni store chese dabba lantidi
+
+student_name = "Arun" #student_name = "Arun" ante student_name ane dabba lo Arun ane peru pettam.
+course_name = "Python Fundamentals" #course_name ane dabba lo course peru pettam.
+institute_name = "Inceptez Technologies" #institute_name ane dabba lo Inceptez Technologies pettam.
+
+# Step 2 : Formatted message print cheyadam
+
+# Method 1: Best Method - f-string methond only Python 3.6+ versions matram available untundhi.
+# f pedithe {} lopala variables direct ga pettachu
+#Print cheyali ante f" " use cheste best. f-string ante magic.
+
+print(f"Name: {student_name} is learning the course {course_name} at the institute {institute_name}")
+
+# {} brackets lopala variable peru rasav ante ade value vachestundi.
+
+# Method 2: Using + (plus) tho join cheyadam - old method
+print("Name: " + student_name + " is learning the course " + course_name + " at the institute " + institute_name)
+
+# Method 3: Using comma - print automatic ga space isthundi
+print("Name:", student_name, "is learning the course", course_name, "at the institute", institute_name)
+
