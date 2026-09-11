@@ -1,0 +1,10 @@
+print("Welcome to Inceptez Python Learning")
+If we add # before the code that particular line will not be executed and again we can remove that # and execute.
+# print("Welcome to Inceptez Python Learning")["Dead Code"]
+If there ia a huge code we can use 
+"""
+print("Welcome to Inceptez Python Learning")
+print("This is also dead")
+
+"""[now this is dead code)
+
