@@ -1,6 +1,7 @@
 # 1. Using DOUBLE QUOTES " " 
 # Single quote ' inside unna problem ledu
 str1 = "This is Inceptez's \"Python\" class for Data Engineers & AI Engineers"
+# \ ni Escape Character antaru. Adi taruvata vache character ki unna special power ni teesestundi
 print(str1)
 
 # 2. Using SINGLE QUOTES ' '
